@@ -14,8 +14,8 @@ dependencies:
   flutter:
     sdk: flutter
   isar:
-    git: 
-      url: https://github.com/squarealfa/isar25.git
+    git:
+      url: https://github.com/ERy03/isar-2.5.0-web-update
       path: packages/isar
 
 
