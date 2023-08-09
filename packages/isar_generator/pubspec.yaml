@@ -12,7 +12,7 @@ publish_to: none
 dependencies:
   isar:
     git:
-      url: https://github.com/ERy03/isar-2.5.0-web-update
+      url: https://github.com/SleeFi/isar-2.5.0-web-update
       path: packages/isar
   build: ^2.2.1
   source_gen: ^1.2.1
